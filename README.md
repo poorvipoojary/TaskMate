@@ -9,4 +9,4 @@ Features:
 - RecyclerView based UI
 - Data saved using SharedPreferences
 
-Demo video uploaded on YouTube.
+
